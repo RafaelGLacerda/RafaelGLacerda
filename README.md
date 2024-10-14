@@ -22,8 +22,8 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
   
 ## 📊 Meu GitHub Status:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGLacerda&size_weight=0.5&count_weight=0.5&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGLacerda&size_weight=0.5&count_weight=0.5&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelGLacerda&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelGLacerda&show_icons=true&theme=dark)
 
 "Sempre em busca de novos desafios e aprendizado constante."
