@@ -19,6 +19,8 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-lacerda-47513526a) **Conecte-se comigo no LinkedIn**
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RafaelGLacerda) **Confira meus projetos no GitHub**
 - ✉️ **Email:** [Rafaellacerda2004@gmail.com](mailto:Rafaellacerda2004@gmail.com)
+  
+## 📊 Meu GitHub Status:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGLacerda&size_weight=0.5&count_weight=0.5)
 
