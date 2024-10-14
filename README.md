@@ -20,6 +20,7 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RafaelGLacerda) **Confira meus projetos no GitHub**
 - ✉️ **Email:** [Rafaellacerda2004@gmail.com](mailto:Rafaellacerda2004@gmail.com)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelGLacerda&show_icons=true&theme=dracula)
 
 "Sempre em busca de novos desafios e aprendizado constante."
