@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Rafael Lacerda!
+# 👋 Olá, me chamo Rafael Lacerda!
 
 Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador-BA**, e atualmente estou mergulhando no mundo do desenvolvimento web e backend, aprimorando minhas habilidades e aprendendo cada vez mais. 🚀
 
