@@ -16,7 +16,7 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 
 🌐 Meu Portfólio
 Explore meu portfólio para saber mais sobre meus projetos!
-**https://portfoliorafaelglacerda.netlify.app/**
+- https://portfoliorafaelglacerda.netlify.app/
 
 ## 📫 Como me encontrar:
 
