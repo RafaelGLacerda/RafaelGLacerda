@@ -15,7 +15,8 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 
 🌐 Meu Portfólio
-Explore meu portfólio para saber mais sobre meus projetos!(https://portfoliorafaelglacerda.netlify.app/)
+Explore meu portfólio para saber mais sobre meus projetos!
+**https://portfoliorafaelglacerda.netlify.app/**
 
 ## 📫 Como me encontrar:
 
