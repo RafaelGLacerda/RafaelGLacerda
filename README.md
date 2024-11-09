@@ -14,6 +14,9 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/getting-started.html)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 
+🌐 Meu Portfólio
+Explore meu portfólio para saber mais sobre meus projetos!(https://portfoliorafaelglacerda.netlify.app/)
+
 ## 📫 Como me encontrar:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-lacerda-47513526a) **Conecte-se comigo no LinkedIn**
