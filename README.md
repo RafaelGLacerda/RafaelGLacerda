@@ -14,16 +14,26 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/docs/getting-started.html)
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 
+## 🌟 Principais Projetos:
+
+- 🔗 [**Store Project** – Projeto de loja responsiva](https://rafaelglacerda.github.io/StoreProject/)
+- 🖼️ [**Galeria Render** – Upload de imagens com Node.js](https://galeriarender-qnwf.onrender.com/)
+- ♻️ [**Recicla Salvador** – Projeto voltado à sustentabilidade urbana](https://reciclasalvador.netlify.app/)
+- 💸 [**Costs Service** – Aplicação para gerenciamento de custos](https://costsservice.netlify.app/)
+- 🐍 [**Pixel Python** – Game em Python com Pygame (GitHub)](https://github.com/RafaelGLacerda/PixelPython)
+- 🎬 [**Your Movie Library** – Biblioteca de filmes interativa](https://yourmovielibrary.netlify.app/)
+- 🍄 [**Mario Game** – Jogo do Mario com JavaScript](https://rafaelglacerda.github.io/MarioGame/)
+
 ## 🌐 Meu Portfólio:
 
- **https://portfoliorafaelglacerda.netlify.app/**
+**https://portfoliorafaelglacerda.netlify.app/**
 
 ## 📫 Como me encontrar:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-lacerda-47513526a) **Conecte-se comigo no LinkedIn**
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RafaelGLacerda) **Confira meus projetos no GitHub**
 - ✉️ **Email:** [Rafaellacerda2004@gmail.com](mailto:Rafaellacerda2004@gmail.com)
-  
+
 ## 📊 Meu GitHub Status:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGLacerda&size_weight=0.5&count_weight=0.5&theme=dark)
