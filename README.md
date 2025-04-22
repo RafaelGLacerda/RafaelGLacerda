@@ -20,8 +20,8 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 - 🖼️ [**Galeria Render** – Upload de imagens com Node.js](https://galeriarender-qnwf.onrender.com/)
 - ♻️ [**Recicla Salvador** – Projeto voltado à sustentabilidade urbana](https://reciclasalvador.netlify.app/)
 - 💸 [**Costs Service** – Aplicação para gerenciamento de custos](https://costsservice.netlify.app/)
-- 🐍 [**Pixel Python** – Game em Python com Pygame (GitHub)](https://github.com/RafaelGLacerda/PixelPython)
 - 🎬 [**Your Movie Library** – Biblioteca de filmes interativa](https://yourmovielibrary.netlify.app/)
+- 🐍 [**Pixel Python** – Game em Python com Pygame (GitHub)](https://github.com/RafaelGLacerda/PixelPython)
 - 🍄 [**Mario Game** – Jogo do Mario com JavaScript](https://rafaelglacerda.github.io/MarioGame/)
 
 ## 🌐 Meu Portfólio:
