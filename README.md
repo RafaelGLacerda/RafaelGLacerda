@@ -18,6 +18,7 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 
 - 🔗 [**Store Project** – Projeto de loja responsiva](https://rafaelglacerda.github.io/StoreProject/)
 - 🖼️ [**Galeria Render** – Upload de imagens com Node.js](https://galeriarender-qnwf.onrender.com/)
+- - 🍄 [**Gerenciador de Tarefas** – Um sistema de anotar tarefas](https://tasks-hbdt.onrender.com/)
 - ♻️ [**Recicla Salvador** – Projeto voltado à sustentabilidade urbana](https://reciclasalvador.netlify.app/)
 - 💸 [**Costs Service** – Aplicação para gerenciamento de custos](https://costsservice.netlify.app/)
 - 🎬 [**Your Movie Library** – Biblioteca de filmes interativa](https://yourmovielibrary.netlify.app/)
