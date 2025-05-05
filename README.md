@@ -20,9 +20,7 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 - 🖼️ [**Galeria Render** – Upload de imagens com Node.js](https://galeriarender-qnwf.onrender.com/)
 - ☑️ [**Gerenciador de Tarefas** – Um sistema de anotar tarefas](https://tasks-hbdt.onrender.com/)
 - ♻️ [**Recicla Salvador** – Projeto voltado à sustentabilidade urbana](https://reciclasalvador.netlify.app/)
-- 💸 **Costs Project – Aplicação para gerenciamento de custos**  
-  🔗 [Frontend (React)](https://costs-project.onrender.com/)  
-  🔗 [Backend (API)](https://costs-api-i62v.onrender.com/)
+- 💸 [**Costs Project** – [Frontend](https://costs-project.onrender.com/) | [Backend (API)](https://costs-api-i62v.onrender.com/)]
 - 🎬 [**Your Movie Library** – Biblioteca de filmes interativa](https://yourmovielibrary.netlify.app/)
 - 🐍 [**Pixel Python** – Game em Python com Pygame (GitHub)](https://github.com/RafaelGLacerda/PixelPython)
 - 🍄 [**Mario Game** – Jogo do Mario com JavaScript](https://rafaelglacerda.github.io/MarioGame/)
