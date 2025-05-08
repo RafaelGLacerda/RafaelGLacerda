@@ -16,16 +16,16 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 
 ## 🌟 Principais Projetos:
 
-- 🔗 [**Store Project** – Projeto de loja responsiva](https://rafaelglacerda.github.io/StoreProject/)
+- 🔗 [**Store Project** – Projeto de Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
 - 🏢 [**EasyBusiness** – WebSite para Empresas, Produtos e Usuarios](https://easybuniness.onrender.com)
-- 🌏  [**Projeto Reciclagem** – Website que faz uma ponte entre cooperativas e usuarios](https://a3-2lsq.onrender.com)
+- 🌏 [**Projeto Reciclagem** – Website que faz uma ponte entre Cooperativas e Usuários](https://a3-2lsq.onrender.com)
+- ☑️ [**Gerenciador de Tarefas** – Um sistema de Anotar Tarefas](https://tasks-hbdt.onrender.com/)
+- ♻️ [**Recicla Salvador** – Projeto voltado à Sustentabilidade Urbana](https://reciclasalvador.netlify.app/)
+- 🎬 [**Your Movie Library** – Biblioteca de Filmes Interativa](https://yourmovielibrary.netlify.app/)
 - 🖼️ [**Galeria Render** – Upload de imagens com Node.js](https://galeriarender-qnwf.onrender.com/)
-- ☑️ [**Gerenciador de Tarefas** – Um sistema de anotar tarefas](https://tasks-hbdt.onrender.com/)
-- ♻️ [**Recicla Salvador** – Projeto voltado à sustentabilidade urbana](https://reciclasalvador.netlify.app/)
-- 💸 **Costs Project** – Projeto voltado ao gerenciamento de Serviços e Orçamentos [Frontend](https://costs-project.onrender.com/) | [Backend (API)](https://costs-api-i62v.onrender.com/)
-- 🎬 [**Your Movie Library** – Biblioteca de filmes interativa](https://yourmovielibrary.netlify.app/)
 - 🐍 [**Pixel Python** – Game em Python com Pygame (GitHub)](https://github.com/RafaelGLacerda/PixelPython)
 - 🍄 [**Mario Game** – Jogo do Mario com JavaScript](https://rafaelglacerda.github.io/MarioGame/)
+- 💸 **Costs Project** – Projeto voltado ao Gerenciamento de Serviços e Orçamentos [Frontend](https://costs-project.onrender.com/) | [Backend (API)](https://costs-api-i62v.onrender.com/)
 
 ## 🌐 Meu Portfólio:
 
