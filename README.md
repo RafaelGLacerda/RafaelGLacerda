@@ -16,7 +16,7 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 
 ## 🌟 Principais Projetos:
 
-- 🔗 [**Store Project** – Projeto de Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
+- 💲 [**Store Project** – Projeto de Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
 - 🏢 [**EasyBusiness** – WebSite para Empresas, Produtos e Usuarios](https://easybuniness.onrender.com)
 - 🌏 [**ReciclaSSA** – Website que faz uma ponte entre Cooperativas e Usuários](https://a3-2lsq.onrender.com)
 - 🏩 [**AgendamentoSUS** – sistema de agendamento de consulta para hospitais](https://agendamentosus.onrender.com/)
