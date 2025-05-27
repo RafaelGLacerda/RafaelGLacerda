@@ -19,7 +19,7 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 - 💲 [**Store Project** – Projeto de Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
 - 🏢 [**EasyBusiness** – WebSite para Empresas, Produtos e Usuarios](https://easybuniness.onrender.com)
 - 🌏 [**ReciclaSSA** – Website que faz uma ponte entre Cooperativas e Usuários](https://a3-2lsq.onrender.com)
-- 🏩 [**AgendamentoSUS** – sistema de agendamento de consulta para hospitais](https://agendamentosus.onrender.com/)
+- 🏩 [**AgendamentoSaude** – sistema de agendamento de consulta para hospitais](https://agendamentosus.onrender.com/)
 - ☑️ [**Gerenciador de Tarefas** – Um sistema de Anotar Tarefas](https://tasks-hbdt.onrender.com/)
 - ✈️ [**VooEmbarcar** – Page com sistema de cotação para uma empresa de viagens aéreas real](https://vooembarcar.netlify.app/)
 - ♻️ [**Recicla Salvador** – Projeto voltado à Sustentabilidade Urbana](https://reciclasalvador.netlify.app/)
