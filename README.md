@@ -32,7 +32,7 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 
 ## 🌐 Meu Portfólio:
 
-**https://portfoliorafaelglacerda.netlify.app/**
+**https://rafaellacerda.netlify.app/**
 
 ## 📫 Como me encontrar:
 
