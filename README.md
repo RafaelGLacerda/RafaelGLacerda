@@ -18,7 +18,7 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 
 - 🤖 [**Chatbot Com IA** – Chat bot que responde a qualquer coisa, funcional](https://assistentechatbotv0.onrender.com/)
 - 📊 [**StoreManager** – Sistema de Gestão de Lojas](https://storemanager-ztwx.onrender.com/ )
-- 💲 [**Store Project** – Projeto de Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
+- 🛒 [**Store Project** – Projeto de Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
 - 🏢 [**EasyBusiness** – WebSite para Empresas, Produtos e Usuarios](https://easybuniness.onrender.com)
 - 🌏 [**ReciclaSSA** – Website que faz uma ponte entre Cooperativas e Usuários](https://a3-2lsq.onrender.com)
 - 🏩 [**AgendamentoSaude** – sistema de agendamento de consulta para hospitais](https://agendamentosus.onrender.com/)
