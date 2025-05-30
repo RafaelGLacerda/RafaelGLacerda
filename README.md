@@ -19,6 +19,7 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 - 🤖 [**Chatbot Com IA** – Chat bot que responde a qualquer coisa, funcional](https://assistentechatbotv0.onrender.com/)
 - 📊 [**StoreManager** – Sistema de Gestão de Lojas](https://storemanager-ztwx.onrender.com/ )
 - 🛒 [**Store Project** – Projeto de Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
+- 💸 [**Costs Project** – Projeto voltado ao Gerenciamento de Serviços e Orçamentos](https://costsservice.onrender.com/)
 - 🏢 [**EasyBusiness** – WebSite para Empresas, Produtos e Usuarios](https://easybuniness.onrender.com)
 - 🌏 [**ReciclaSSA** – Website que faz uma ponte entre Cooperativas e Usuários](https://a3-2lsq.onrender.com)
 - 🏩 [**AgendamentoSaude** – sistema de agendamento de consulta para hospitais](https://agendamentosus.onrender.com/)
@@ -30,7 +31,6 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 - 🏛️ [**NeoBank** – Um Banco Virtual Simples](https://neobank-evh5.onrender.com/)
 - 🐍 [**Pixel Python** – Game em Python com Pygame (GitHub)](https://github.com/RafaelGLacerda/PixelPython)
 - 🍄 [**Mario Game** – Jogo do Mario com JavaScript](https://rafaelglacerda.github.io/MarioGame/)
-- 💸 **Costs Project** – Projeto voltado ao Gerenciamento de Serviços e Orçamentos [Frontend](https://costs-project.onrender.com/) | [Backend (API)](https://costs-api-i62v.onrender.com/)
 
 ## 🌐 Meu Portfólio:
 
