@@ -29,10 +29,9 @@ Sou um desenvolvedor iniciante de tecnologia e programação! Moro em **Salvador
 - ✈️ [**VooEmbarcar** – Page com sistema de cotação para uma empresa de viagens aéreas real](https://vooembarcar.netlify.app/)
 - ♻️ [**Recicla Salvador** – Projeto voltado à Sustentabilidade Urbana](https://reciclasalvador.netlify.app/)
 - 🎬 [**Your Movie Library** – Biblioteca de Filmes Interativa](https://yourmovielibrary.netlify.app/)
-- 🖼️ [**Galeria Render** – Upload de imagens com Node.js](https://galeriarender-qnwf.onrender.com/)
 - 🏛️ [**NeoBank** – Um Banco Virtual Simples](https://neobank-evh5.onrender.com/)
 - 🐍 [**Pixel Python** – Game em Python com Pygame (GitHub)](https://github.com/RafaelGLacerda/PixelPython)
-- 🍄 [**Mario Game** – Jogo do Mario com JavaScript](https://rafaelglacerda.github.io/MarioGame/)
+
 
 ## 🌐 Meu Portfólio:
 
