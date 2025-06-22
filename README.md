@@ -27,7 +27,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 🏢 [**EasyBusiness** – WebSite para Empresas, Produtos e Usuarios](https://easybuniness.onrender.com)
 - ✈️[**VooEmbarcar** – Page com sistema de cotação para uma empresa de viagens aéreas real](https://vooembarcar.netlify.app/)
 - 🌏 [**ReciclaSSA** – Website que faz uma ponte entre Cooperativas e Usuários](https://reciclassa.onrender.com/)
-- 🎁 [**OpenSkins** – Um sistema totalmente fictício para abrir caixas igual no do CS2](https://valorantskins.onrender.com/)
+- 🎁 [**OpenSkins** – Um sistema totalmente fictício para abrir caixas igual no do CS2](https://openskins.onrender.com/)
 - ⭐ [**RushHeroes** – Um jogo gacha de turno simplificado](  https://rushheroes.onrender.com/)
 - ⛽ [**PostoFinder** – Sistema onde é possível ver postos de gasolina mais próximos](https://postofinder.onrender.com/)
 - 🏩 [**AgendamentoSaude** – WebSite onde é possivel agendar sua consulta](https://agendamentosus.onrender.com/)
