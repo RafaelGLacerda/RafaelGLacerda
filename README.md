@@ -19,6 +19,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 ## 🌟 Principais Projetos:
 
 - 🤖 [**Chatbot Com IA** – Chat bot que responde a qualquer coisa, funcional](https://assistentechatbotv0.onrender.com/)
+- ⭐ [**RushHeroes** – Um jogo gacha de turno simplificado](  https://rushheroes.onrender.com/)
 - 📽️ [**L5M** – WebSite com as funcionalidades do Youtube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Sistema de comunicação de texto e voz basedo no discord](https://drocsid.onrender.com/ )
 - 📊 [**StoreManager** – Sistema de Gestão de Lojas](https://storemanager-ztwx.onrender.com/ )
@@ -28,7 +29,6 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - ✈️[**VooEmbarcar** – Page com sistema de cotação para uma empresa de viagens aéreas real](https://vooembarcar.netlify.app/)
 - 🌏 [**ReciclaSSA** – Website que faz uma ponte entre Cooperativas e Usuários](https://reciclassa.onrender.com/)
 - 🎁 [**OpenSkins** – Um sistema totalmente fictício para abrir caixas igual no do CS2](https://openskins.onrender.com/)
-- ⭐ [**RushHeroes** – Um jogo gacha de turno simplificado](  https://rushheroes.onrender.com/)
 - ⛽ [**PostoFinder** – Sistema onde é possível ver postos de gasolina mais próximos](https://postofinder.onrender.com/)
 - 🏩 [**AgendamentoSaude** – WebSite onde é possivel agendar sua consulta](https://agendamentosus.onrender.com/)
 - 🌥️ [**CityWeather** – WebSite simples para ver o clima em qualquer cidade](https://cityweatherbasic.netlify.app/ )
