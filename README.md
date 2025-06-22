@@ -25,7 +25,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 💸 [**Costs Project** – Projeto voltado ao Gerenciamento de Serviços e Orçamentos](https://costsservice.onrender.com/)
 - 🏛️ [**NeoBank** – Um Banco Virtual Simples](https://neobank-ji8b.onrender.com/)
 - 🏢 [**EasyBusiness** – WebSite para Empresas, Produtos e Usuarios](https://easybuniness.onrender.com)
-- ✈️ [**VooEmbarcar** – Page com sistema de cotação para uma empresa de viagens aéreas real](https://vooembarcar.netlify.app/)
+- ✈️[**VooEmbarcar** – Page com sistema de cotação para uma empresa de viagens aéreas real](https://vooembarcar.netlify.app/)
 - 🌏 [**ReciclaSSA** – Website que faz uma ponte entre Cooperativas e Usuários](https://reciclassa.onrender.com/)
 - 🎁 [**OpenSkins** – Um sistema totalmente fictício para abrir caixas igual no do CS2](https://valorantskins.onrender.com/)
 - ⭐ [**RushHeroes** – Um jogo gacha de turno simplificado](  https://rushheroes.onrender.com/)
