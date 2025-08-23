@@ -19,7 +19,8 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 ## 🌟 Principais Projetos:
 
 - 🤖 [**Chatbot Com IA** – Chat bot que responde a qualquer coisa, funcional](https://assistentechatbotv0.onrender.com/)
-- ⭐ [**RushHeroes** – Um jogo gacha de turno simplificado](  https://rushheroes.onrender.com/)
+- 💰 [**Business Management** – Sistema de gestão de negócios](https://bmanagement.vercel.app/)
+- ⭐ [**RushHeroes** – Um jogo gacha de turno simplificado](https://rushheroes.onrender.com/)
 - 📽️ [**L5M** – WebSite com as funcionalidades do Youtube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Sistema de comunicação de texto e voz basedo no discord](https://drocsid.onrender.com/ )
 - 📊 [**StoreManager** – Sistema de Gestão de Lojas](https://storemanager-ztwx.onrender.com/ )
