@@ -20,7 +20,6 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 
 - 🤖 [**Chatbot Com IA** – Chat bot que responde a qualquer coisa, funcional](https://assistentechatbotv0.onrender.com/)
 - 💰 [**Business Management** – Sistema de gestão de negócios](https://bmanagement.vercel.app/)
-- ⭐ [**RushHeroes** – Um jogo gacha de turno simplificado](https://rushheroes.onrender.com/)
 - 📽️ [**L5M** – WebSite com as funcionalidades do Youtube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Sistema de comunicação de texto e voz basedo no discord](https://drocsid.onrender.com/ )
 - 📊 [**StoreManager** – Sistema de Gestão de Lojas](https://storemanager-ztwx.onrender.com/ )
@@ -29,6 +28,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 🏢 [**EasyBusiness** – WebSite para Empresas, Produtos e Usuarios](https://easybuniness.onrender.com)
 - ✈️[**VooEmbarcar** – Page com sistema de cotação para uma empresa de viagens aéreas real](https://vooembarcar.netlify.app/)
 - ♟️ [**CommonChess** – Jogo de Xadrez bem estilizado](https://commonchess.netlify.app/ )
+- ⭐ [**RushHeroes** – Um jogo gacha de turno simplificado](https://rushheroes.onrender.com/)
 - 🌏 [**ReciclaSSA** – Website que faz uma ponte entre Cooperativas e Usuários](https://reciclassa.onrender.com/)
 - 🎁 [**OpenSkins** – Um sistema totalmente fictício para abrir caixas igual no do CS2](https://openskins.onrender.com/)
 - ⛽ [**PostoFinder** – Sistema onde é possível ver postos de gasolina mais próximos](https://postofinder.onrender.com/)
