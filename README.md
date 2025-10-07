@@ -16,28 +16,39 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/docs)
 
-## 🌟 Principais Projetos:
+## 🌟 Principais Projetos
 
-- 🤖 [**Chatbot Com IA** – Chat bot que responde a qualquer coisa, funcional](https://assistentechatbotv0.onrender.com/)
-- 💰 [**Business Management** – Sistema de gestão de negócios](https://bmanagement.vercel.app/)
-- 📽️ [**L5M** – WebSite com as funcionalidades do Youtube](https://l5m.onrender.com/)
-- 🔊 [**Drocsid** – Sistema de comunicação de texto e voz basedo no discord](https://drocsid.onrender.com/ )
-- 📊 [**StoreManager** – Sistema de Gestão de Lojas](https://storemanager-ztwx.onrender.com/ )
-- 💸 [**Costs Project** – Projeto voltado ao Gerenciamento de Serviços e Orçamentos](https://costsservice.onrender.com/)
-- 🏛️ [**NeoBank** – Um Banco Virtual Simples](https://neobank-ji8b.onrender.com/)
-- 🏢 [**EasyBusiness** – WebSite para Empresas, Produtos e Usuarios](https://easybuniness.onrender.com)
-- ✈️[**VooEmbarcar** – Page com sistema de cotação para uma empresa de viagens aéreas real](https://vooembarcar.netlify.app/)
-- ♟️ [**CommonChess** – Jogo de Xadrez bem estilizado](https://commonchess.netlify.app/ )
-- ⭐ [**RushHeroes** – Um jogo gacha de turno simplificado](https://rushheroes.onrender.com/)
-- 🌏 [**ReciclaSSA** – Website que faz uma ponte entre Cooperativas e Usuários](https://reciclassa.onrender.com/)
-- 🎁 [**OpenSkins** – Um sistema totalmente fictício para abrir caixas igual no do CS2](https://openskins.onrender.com/)
-- ⛽ [**PostoFinder** – Sistema onde é possível ver postos de gasolina mais próximos](https://postofinder.onrender.com/)
-- 🏩 [**AgendamentoSaude** – WebSite onde é possivel agendar sua consulta](https://agendamentosus.onrender.com/)
-- 🌥️ [**CityWeather** – WebSite simples para ver o clima em qualquer cidade](https://cityweatherbasic.netlify.app/ )
-- ☑️ [**Tasks** – Um sistema de Anotar Tarefas](https://tasks-hbdt.onrender.com/)
-- 🛒 [**Store Project** – Projeto de Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
-- 🎬 [**Your Movie Library** – Biblioteca de Filmes Interativa](https://yourmovielibrary.netlify.app/)
-- 🐍 [**Pixel Python** – Game em Python com Pygame (GitHub)](https://github.com/RafaelGLacerda/PixelPython)
+### 💼 Business
+- 🤖 [**Chatbot Com IA** – Chat Bot Funcional](https://assistentechatbotv0.onrender.com/)
+- 💰 [**Business Management** – Gestão de Negócios](https://bmanagement.vercel.app/)
+- 📊 [**StoreManager** – Gestão de Lojas](https://storemanager-ztwx.onrender.com/)
+- 💸 [**Costs Project** – Gerenciamento de Serviços e Orçamentos](https://costsservice.onrender.com/)
+- 🏛️ [**NeoBank** – Banco Virtual Simples](https://neobank-ji8b.onrender.com/)
+- 🏢 [**EasyBusiness** – Website para Empresas e Usuários](https://easybuniness.onrender.com/)
+- ✈️ [**VooEmbarcar** – Sistema de cotação para empresa de viagens aéreas](https://vooembarcar.netlify.app/)
+- 🛒 [**Store Project** – Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
+- 🌏 [**ReciclaSSA** – Conecta Cooperativas e Usuários](https://reciclassa.onrender.com/)
+
+### 📍 Localização / Agendamentos
+- ⛽ [**PostoFinder** – Ver postos de gasolina próximos](https://postofinder.onrender.com/)
+- 🌥️ [**CityWeather** – Clima em qualquer cidade](https://cityweatherbasic.netlify.app/)
+- 🏩 [**AgendamentoSaude** – Agendar consultas](https://agendamentosus.onrender.com/)
+- ☑️ [**Tasks** – Anotar Tarefas](https://tasks-hbdt.onrender.com/)
+- 📜 [**TransparentNotes** – App em Python para anotações](https://github.com/RafaelGLacerda/TransparentNotes)
+
+### 🎨 Comunicação / Cultura
+- 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
+- 🔊 [**Drocsid** – Comunicação de texto e voz baseada no Discord](https://drocsid.onrender.com/)
+- 🎬 [**Your Movie Library** – Biblioteca de Filmes](https://yourmovielibrary.netlify.app/)
+- 🎬 [**Reels & Shorts** – App em Python para download de vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
+
+### 🎮 Jogos
+- 🎁 [**OpenSkins** – Fictício para abrir caixas](https://openskins.onrender.com/)
+- ♟️ [**CommonChess** – Jogo de Xadrez estilizado](https://commonchess.netlify.app/)
+- ⭐ [**RushHeroes** – Jogo gacha de turno simplificado](https://rushheroes.onrender.com/)
+- 🐍 [**Pixel Python** – Game em Python com Pygame](https://github.com/RafaelGLacerda/PixelPython)
+
+
 
 
 ## 🌐 Meu Portfólio:
