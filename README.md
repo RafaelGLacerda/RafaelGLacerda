@@ -36,6 +36,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - ☑️ [**Tasks** – Anotar Tarefas](https://tasks-hbdt.onrender.com/)
 - 📜 [**TransparentNotes** – App em Python para anotações](https://github.com/RafaelGLacerda/TransparentNotes)
 
+
 ### 🎨 Comunicação / Cultura
 - 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Comunicação de texto e voz baseada no Discord](https://drocsid.onrender.com/)
@@ -46,8 +47,8 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 🎁 [**OpenSkins** – Fictício para abrir caixas](https://openskins.onrender.com/)
 - ♟️ [**CommonChess** – Jogo de Xadrez estilizado](https://commonchess.netlify.app/)
 - ⭐ [**RushHeroes** – Jogo gacha de turno simplificado](https://rushheroes.onrender.com/)
-- 🐍 [**Pixel Python** – Game em Python com Pygame](https://github.com/RafaelGLacerda/PixelPython)
-
+- 🐍 [**Pixel Python** – Jogo em Python com Pygame](https://github.com/RafaelGLacerda/PixelPython)
+- 🔴 [**AutoBallBattle** – Jogo automático RPG competitivo](https://autoballbattletest.vercel.app/)
 
 
 
