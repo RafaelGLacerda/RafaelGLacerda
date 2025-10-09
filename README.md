@@ -27,13 +27,6 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - ✈️ [**VooEmbarcar** – Sistema de cotação para empresa de viagens aéreas](https://vooembarcar.netlify.app/)
 - 🛒 [**Store Project** – Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
 
-### 📍 Localização / Agendamentos
-- ⛽ [**PostoFinder** – Ver postos de gasolina próximos](https://postofinder.onrender.com/)
-- 🌥️ [**CityWeather** – Clima em qualquer cidade](https://cityweatherbasic.netlify.app/)
-- 🏩 [**AgendamentoSaude** – Agendar consultas](https://agendamentosus.onrender.com/)
-- ☑️ [**Tasks** – Anotar Tarefas](https://tasks-hbdt.onrender.com/)
-- 📜 [**TransparentNotes** – App em Python para anotações](https://github.com/RafaelGLacerda/TransparentNotes)
-
 ### 🔎 Variados
 - 🤖 [**Chatbot Com IA** – Chat Bot Funcional](https://assistentechatbotv0.onrender.com/)
 - 🌏 [**ReciclaSSA** – Conecta Cooperativas e Usuários](https://reciclassa.onrender.com/)
@@ -43,6 +36,13 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Comunicação de texto e voz baseada no Discord](https://drocsid.onrender.com/)
 - 🎬 [**Your Movie Library** – Biblioteca de Filmes](https://yourmovielibrary.netlify.app/)
+  
+### 📍 Localização / Agendamentos
+- ⛽ [**PostoFinder** – Ver postos de gasolina próximos](https://postofinder.onrender.com/)
+- 🌥️ [**CityWeather** – Clima em qualquer cidade](https://cityweatherbasic.netlify.app/)
+- 🏩 [**AgendamentoSaude** – Agendar consultas](https://agendamentosus.onrender.com/)
+- ☑️ [**Tasks** – Anotar Tarefas](https://tasks-hbdt.onrender.com/)
+- 📜 [**TransparentNotes** – App em Python para anotações](https://github.com/RafaelGLacerda/TransparentNotes)
 
 ### 🎮 Jogos
 - 🎁 [**OpenSkins** – Fictício para abrir caixas](https://openskins.onrender.com/)
