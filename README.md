@@ -18,15 +18,6 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 
 ## 🌟 Principais Projetos
 
-### 💼 Business
-- 💰 [**Business Management** – Gestão de Negócios](https://bmanagement.vercel.app/)
-- 📊 [**StoreManager** – Gestão de Lojas](https://storemanager-ztwx.onrender.com/)
-- 💸 [**Costs Project** – Gerenciamento de Serviços e Orçamentos](https://costsservice.onrender.com/)
-- 🏛️ [**NeoBank** – Banco Virtual Simples](https://neobank-ji8b.onrender.com/)
-- 🏢 [**EasyBusiness** – Website para Empresas e Usuários](https://easybuniness.onrender.com/)
-- ✈️ [**VooEmbarcar** – Sistema de Cotação para Empresa de Viagens Aéreas](https://vooembarcar.netlify.app/)
-- 🛒 [**Store Project** – Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
-
 ### 🔎 Variados
 - 🤖 [**Chatbot Com IA** – Chat Bot Funcional](https://assistentechatbotv0.onrender.com/)
 - 🔴 [**Gerador de QRcode** – Gerar QRcodes pelos Links](https://qrcodesgerador.netlify.app/)
@@ -37,6 +28,15 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 🎬 [**Your Movie Library** – Biblioteca de Filmes](https://yourmovielibrary.netlify.app/)
 - 📽️ [**Reels & Shorts** – App em Python para Download de Vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
 - 🐍 [**Monitor De Processos** – Monitorar o Desempenho do Computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
+
+### 💼 Business
+- 💰 [**Business Management** – Gestão de Negócios](https://bmanagement.vercel.app/)
+- 📊 [**StoreManager** – Gestão de Lojas](https://storemanager-ztwx.onrender.com/)
+- 💸 [**Costs Project** – Gerenciamento de Serviços e Orçamentos](https://costsservice.onrender.com/)
+- 🏛️ [**NeoBank** – Banco Virtual Simples](https://neobank-ji8b.onrender.com/)
+- 🏢 [**EasyBusiness** – Website para Empresas e Usuários](https://easybuniness.onrender.com/)
+- ✈️ [**VooEmbarcar** – Sistema de Cotação para Empresa de Viagens Aéreas](https://vooembarcar.netlify.app/)
+- 🛒 [**Store Project** – Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
   
 ### 📍 Localização / Agendamentos
 - 📜 [**TransparentNotes** – App em Python para Anotações](https://github.com/RafaelGLacerda/TransparentNotes)
