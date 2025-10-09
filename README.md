@@ -29,7 +29,8 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 
 ### 🔎 Variados
 - 🤖 [**Chatbot Com IA** – Chat Bot Funcional](https://assistentechatbotv0.onrender.com/)
-- 🔴 [**Gerador de QRcode** – gerar QRcodes pelos links](https://qrcodesgerador.netlify.app/)
+- 🔴 [**Gerador de QRcode** – Gerar QRcodes pelos links](https://qrcodesgerador.netlify.app/)
+- 🏜️ [**Conversor de Imagens** – Converter imagens para diferentes tipos](https://imagemconversor.netlify.app/)
 - 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Comunicação de texto e voz baseada no Discord](https://drocsid.onrender.com/)
 - 🎬 [**Your Movie Library** – Biblioteca de Filmes](https://yourmovielibrary.netlify.app/)
