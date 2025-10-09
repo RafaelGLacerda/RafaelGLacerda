@@ -19,7 +19,6 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 ## 🌟 Principais Projetos
 
 ### 💼 Business
-- 🤖 [**Chatbot Com IA** – Chat Bot Funcional](https://assistentechatbotv0.onrender.com/)
 - 💰 [**Business Management** – Gestão de Negócios](https://bmanagement.vercel.app/)
 - 📊 [**StoreManager** – Gestão de Lojas](https://storemanager-ztwx.onrender.com/)
 - 💸 [**Costs Project** – Gerenciamento de Serviços e Orçamentos](https://costsservice.onrender.com/)
@@ -27,7 +26,6 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 🏢 [**EasyBusiness** – Website para Empresas e Usuários](https://easybuniness.onrender.com/)
 - ✈️ [**VooEmbarcar** – Sistema de cotação para empresa de viagens aéreas](https://vooembarcar.netlify.app/)
 - 🛒 [**Store Project** – Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
-- 🌏 [**ReciclaSSA** – Conecta Cooperativas e Usuários](https://reciclassa.onrender.com/)
 
 ### 📍 Localização / Agendamentos
 - ⛽ [**PostoFinder** – Ver postos de gasolina próximos](https://postofinder.onrender.com/)
@@ -36,12 +34,15 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - ☑️ [**Tasks** – Anotar Tarefas](https://tasks-hbdt.onrender.com/)
 - 📜 [**TransparentNotes** – App em Python para anotações](https://github.com/RafaelGLacerda/TransparentNotes)
 
-
-### 🎨 Comunicação / Cultura
+### 🔎 Variados
+- 🤖 [**Chatbot Com IA** – Chat Bot Funcional](https://assistentechatbotv0.onrender.com/)
+- 🌏 [**ReciclaSSA** – Conecta Cooperativas e Usuários](https://reciclassa.onrender.com/)
+- 🎬 [**Reels & Shorts** – App em Python para download de vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
+- 🐍 [**Monitor De Processos** – Monitorar o desempenho do computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
+- 🔴 [**Gerador de QRcode** – gerar QRcodes pelos links](https://qrcodesgerador.netlify.app/)
 - 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Comunicação de texto e voz baseada no Discord](https://drocsid.onrender.com/)
 - 🎬 [**Your Movie Library** – Biblioteca de Filmes](https://yourmovielibrary.netlify.app/)
-- 🎬 [**Reels & Shorts** – App em Python para download de vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
 
 ### 🎮 Jogos
 - 🎁 [**OpenSkins** – Fictício para abrir caixas](https://openskins.onrender.com/)
@@ -49,6 +50,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - ⭐ [**RushHeroes** – Jogo gacha de turno simplificado](https://rushheroes.onrender.com/)
 - 🐍 [**Pixel Python** – Jogo em Python com Pygame](https://github.com/RafaelGLacerda/PixelPython)
 - 🔴 [**AutoBallBattle** – Jogo automático RPG competitivo](https://autoballbattletest.vercel.app/)
+
 
 
 
