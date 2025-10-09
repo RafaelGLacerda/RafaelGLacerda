@@ -29,20 +29,20 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 
 ### 🔎 Variados
 - 🤖 [**Chatbot Com IA** – Chat Bot Funcional](https://assistentechatbotv0.onrender.com/)
-- 🌏 [**ReciclaSSA** – Conecta Cooperativas e Usuários](https://reciclassa.onrender.com/)
-- 🎬 [**Reels & Shorts** – App em Python para download de vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
-- 🐍 [**Monitor De Processos** – Monitorar o desempenho do computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
 - 🔴 [**Gerador de QRcode** – gerar QRcodes pelos links](https://qrcodesgerador.netlify.app/)
 - 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Comunicação de texto e voz baseada no Discord](https://drocsid.onrender.com/)
 - 🎬 [**Your Movie Library** – Biblioteca de Filmes](https://yourmovielibrary.netlify.app/)
+- 📽️ [**Reels & Shorts** – App em Python para download de vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
+- 🐍 [**Monitor De Processos** – Monitorar o desempenho do computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
   
 ### 📍 Localização / Agendamentos
+- 📜 [**TransparentNotes** – App em Python para anotações](https://github.com/RafaelGLacerda/TransparentNotes)
 - ⛽ [**PostoFinder** – Ver postos de gasolina próximos](https://postofinder.onrender.com/)
 - 🌥️ [**CityWeather** – Clima em qualquer cidade](https://cityweatherbasic.netlify.app/)
 - 🏩 [**AgendamentoSaude** – Agendar consultas](https://agendamentosus.onrender.com/)
 - ☑️ [**Tasks** – Anotar Tarefas](https://tasks-hbdt.onrender.com/)
-- 📜 [**TransparentNotes** – App em Python para anotações](https://github.com/RafaelGLacerda/TransparentNotes)
+- 🌏 [**ReciclaSSA** – Conecta Cooperativas e Usuários](https://reciclassa.onrender.com/)
 
 ### 🎮 Jogos
 - 🎁 [**OpenSkins** – Fictício para abrir caixas](https://openskins.onrender.com/)
