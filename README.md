@@ -20,14 +20,15 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 
 ### 🔎 Variados
 - 🤖 [**Chatbot Com IA** – Chat Bot Funcional](https://assistentechatbotv0.onrender.com/)
+- 💻 [**Monitor De Processos** – Monitorar o Desempenho do Computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
 - 🔴 [**Gerador de QRcode** – Gerar QRcodes pelos Links](https://qrcodesgerador.netlify.app/)
 - 🏜️ [**Conversor de Imagens** – Converter Imagens para Diferentes Tipos](https://imagemconversor.netlify.app/)
-- 📏 [**Conversor de Unidades** – Converter Diversos Tipos de Unidades](https://unidadeconversor.netlify.app/)
 - 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Comunicação de Texto e Voz Baseada no Discord](https://drocsid.onrender.com/)
 - 🎬 [**Your Movie Library** – Biblioteca de Filmes](https://yourmovielibrary.netlify.app/)
 - 📽️ [**Reels & Shorts** – App em Python para Download de Vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
-- 🐍 [**Monitor De Processos** – Monitorar o Desempenho do Computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
+- 📏 [**Conversor de Unidades** – Converter Diversos Tipos de Unidades](https://unidadeconversor.netlify.app/)
+- 💵 [**Calculadora de Juros** – Calcular o Juros de investimentos]( https://juroscalculator.netlify.app/)
 
 ### 💼 Business
 - 💰 [**Business Management** – Gestão de Negócios](https://bmanagement.vercel.app/)
