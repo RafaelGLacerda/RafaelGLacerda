@@ -24,35 +24,33 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 💸 [**Costs Project** – Gerenciamento de Serviços e Orçamentos](https://costsservice.onrender.com/)
 - 🏛️ [**NeoBank** – Banco Virtual Simples](https://neobank-ji8b.onrender.com/)
 - 🏢 [**EasyBusiness** – Website para Empresas e Usuários](https://easybuniness.onrender.com/)
-- ✈️ [**VooEmbarcar** – Sistema de cotação para empresa de viagens aéreas](https://vooembarcar.netlify.app/)
+- ✈️ [**VooEmbarcar** – Sistema de Cotação para Empresa de Viagens Aéreas](https://vooembarcar.netlify.app/)
 - 🛒 [**Store Project** – Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
 
 ### 🔎 Variados
 - 🤖 [**Chatbot Com IA** – Chat Bot Funcional](https://assistentechatbotv0.onrender.com/)
-- 🔴 [**Gerador de QRcode** – Gerar QRcodes pelos links](https://qrcodesgerador.netlify.app/)
-- 🏜️ [**Conversor de Imagens** – Converter imagens para diferentes tipos](https://imagemconversor.netlify.app/)
+- 🔴 [**Gerador de QRcode** – Gerar QRcodes pelos Links](https://qrcodesgerador.netlify.app/)
+- 🏜️ [**Conversor de Imagens** – Converter Imagens para Diferentes Tipos](https://imagemconversor.netlify.app/)
 - 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
-- 🔊 [**Drocsid** – Comunicação de texto e voz baseada no Discord](https://drocsid.onrender.com/)
+- 🔊 [**Drocsid** – Comunicação de Texto e Voz Baseada no Discord](https://drocsid.onrender.com/)
 - 🎬 [**Your Movie Library** – Biblioteca de Filmes](https://yourmovielibrary.netlify.app/)
-- 📽️ [**Reels & Shorts** – App em Python para download de vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
-- 🐍 [**Monitor De Processos** – Monitorar o desempenho do computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
+- 📽️ [**Reels & Shorts** – App em Python para Download de Vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
+- 🐍 [**Monitor De Processos** – Monitorar o Desempenho do Computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
   
 ### 📍 Localização / Agendamentos
-- 📜 [**TransparentNotes** – App em Python para anotações](https://github.com/RafaelGLacerda/TransparentNotes)
-- ⛽ [**PostoFinder** – Ver postos de gasolina próximos](https://postofinder.onrender.com/)
-- 🌥️ [**CityWeather** – Clima em qualquer cidade](https://cityweatherbasic.netlify.app/)
-- 🏩 [**AgendamentoSaude** – Agendar consultas](https://agendamentosus.onrender.com/)
+- 📜 [**TransparentNotes** – App em Python para Anotações](https://github.com/RafaelGLacerda/TransparentNotes)
+- ⛽ [**PostoFinder** – Ver Postos de Gasolina Próximos](https://postofinder.onrender.com/)
+- 🌥️ [**CityWeather** – Clima em Qualquer Cidade](https://cityweatherbasic.netlify.app/)
+- 🏩 [**AgendamentoSaude** – Agendar Consultas](https://agendamentosus.onrender.com/)
 - ☑️ [**Tasks** – Anotar Tarefas](https://tasks-hbdt.onrender.com/)
 - 🌏 [**ReciclaSSA** – Conecta Cooperativas e Usuários](https://reciclassa.onrender.com/)
 
 ### 🎮 Jogos
-- 🎁 [**OpenSkins** – Fictício para abrir caixas](https://openskins.onrender.com/)
-- ♟️ [**CommonChess** – Jogo de Xadrez estilizado](https://commonchess.netlify.app/)
-- ⭐ [**RushHeroes** – Jogo gacha de turno simplificado](https://rushheroes.onrender.com/)
+- 🎁 [**OpenSkins** – Fictício para Abrir Caixas](https://openskins.onrender.com/)
+- ♟️ [**CommonChess** – Jogo de Xadrez Estilizado](https://commonchess.netlify.app/)
+- ⭐ [**RushHeroes** – Jogo gacha de Turno Simplificado](https://rushheroes.onrender.com/)
 - 🐍 [**Pixel Python** – Jogo em Python com Pygame](https://github.com/RafaelGLacerda/PixelPython)
-- 🔴 [**AutoBallBattle** – Jogo automático RPG competitivo](https://autoballbattletest.vercel.app/)
-
-
+- 🔴 [**AutoBallBattle** – Jogo Automático RPG Competitivo](https://autoballbattletest.vercel.app/)
 
 
 ## 🌐 Meu Portfólio:
