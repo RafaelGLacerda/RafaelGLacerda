@@ -37,7 +37,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 💸 [**Costs Project** – Gerenciamento de Serviços e Orçamentos](https://costsservice.onrender.com/)
 - 🏛️ [**NeoBank** – Banco Virtual Simples](https://neobank-ji8b.onrender.com/)
 - 🏢 [**EasyBusiness** – Website para Empresas e Usuários](https://easybuniness.onrender.com/)
-- ✈️[**VooEmbarcar** – Sistema de Cotação para Empresa de Viagens Aéreas](https://vooembarcar.netlify.app/)
+- 🛬 [**VooEmbarcar** – Sistema de Cotação para Empresa de Viagens Aéreas](https://vooembarcar.netlify.app/)
 - 🛒 [**Store Project** – Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
 - 💰 [**Business Management** – Gestão de Negócios](https://bmanagement.vercel.app/)
   
