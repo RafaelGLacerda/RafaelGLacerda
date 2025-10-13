@@ -33,13 +33,13 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 💵 [**Calculadora de Juros** – Calcular o Juros de investimentos]( https://juroscalculator.netlify.app/)
 
 ### 💼 Business
-- 💰 [**Business Management** – Gestão de Negócios](https://bmanagement.vercel.app/)
 - 📊 [**StoreManager** – Gestão de Lojas](https://storemanager-ztwx.onrender.com/)
 - 💸 [**Costs Project** – Gerenciamento de Serviços e Orçamentos](https://costsservice.onrender.com/)
 - 🏛️ [**NeoBank** – Banco Virtual Simples](https://neobank-ji8b.onrender.com/)
 - 🏢 [**EasyBusiness** – Website para Empresas e Usuários](https://easybuniness.onrender.com/)
 - ✈️ [**VooEmbarcar** – Sistema de Cotação para Empresa de Viagens Aéreas](https://vooembarcar.netlify.app/)
 - 🛒 [**Store Project** – Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
+- 💰 [**Business Management** – Gestão de Negócios](https://bmanagement.vercel.app/)
   
 ### 📍 Localização / Agendamentos
 - 📜 [**TransparentNotes** – App em Python para Anotações](https://github.com/RafaelGLacerda/TransparentNotes)
