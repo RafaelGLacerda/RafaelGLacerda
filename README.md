@@ -24,6 +24,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 🔴 [**Gerador de QRcode** – Gerar QRcodes pelos Links](https://qrcodesgerador.netlify.app/)
 - 🕓 [**ModernClock** – Funcoes de Relógio com Design Moderno](https://modernclock.vercel.app/) 
 - 🏜️ [**Conversor de Imagens** – Converter Imagens para Diferentes Tipos](https://imagemconversor.netlify.app/)
+- 📈 [**Analisador de Rede** – Visualizar seu Upload, Donwload e Ping](https://redeanalise.onrender.com/)
 - 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Comunicação de Texto e Voz Baseada no Discord](https://drocsid.onrender.com/)
 - 🎬 [**Your Movie Library** – Biblioteca de Filmes](https://yourmovielibrary.netlify.app/)
