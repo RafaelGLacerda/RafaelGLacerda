@@ -27,7 +27,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 📈 [**Analisador de Rede** – Visualizar seu Upload, Donwload e Ping](https://redeanalise.onrender.com/)
 - 📽️ [**Reels & Shorts** – App em Python para Download de Vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
 - 📂 [**CryptoModern** – Criptografar e descriptografar Arquivos](https://cryptomodern.netlify.app/)
-- 🧾 [**NotasFiscais(Não oficial Brasileiro)** – Criador de Notas Fiscais (Não oficial Brasileiro)](https://notasfiscaispdf.netlify.app/)
+- 🧾 [**NotasFiscais** – Criador de Notas Fiscais (Este site é um projeto fictício e educacional)](https://notasfiscaispdf.netlify.app/)
 - 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Comunicação de Texto e Voz Baseada no Discord](https://drocsid.onrender.com/)
 - 🎬 [**Your Movie Library** – Biblioteca de Filmes](https://yourmovielibrary.netlify.app/)
