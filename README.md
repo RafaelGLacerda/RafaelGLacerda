@@ -46,6 +46,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 ### 📍 Localização / Agendamentos
 - 📜 [**TransparentNotes** – App em Python para Anotações](https://github.com/RafaelGLacerda/TransparentNotes)
 - ⛽ [**PostoFinder** – Ver Postos de Gasolina Próximos](https://postofinder.onrender.com/)
+- 🍴 [**DietMealOrganizer** – Website para Organizar Dietas](https://dietmealorganizer.vercel.app/) 
 - 🌥️ [**CityWeather** – Clima em Qualquer Cidade](https://cityweatherbasic.netlify.app/)
 - 🏩 [**AgendamentoSaude** – Agendar Consultas](https://agendamentosus.onrender.com/)
 - ☑️ [**Tasks** – Anotar Tarefas](https://tasks-hbdt.onrender.com/)
