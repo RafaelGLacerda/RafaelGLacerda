@@ -41,7 +41,6 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 - 🏢 [**EasyBusiness** – Website para Empresas e Usuários](https://easybuniness.onrender.com/)
 - 🛬 [**VooEmbarcar** – Sistema de Cotação para Empresa de Viagens Aéreas](https://vooembarcar.netlify.app/)
 - 🛒 [**Store Project** – Loja Responsiva](https://rafaelglacerda.github.io/StoreProject/)
-- 💰 [**Business Management** – Gestão de Negócios](https://bmanagement.vercel.app/)
   
 ### 📍 Localização / Agendamentos
 - 📜 [**TransparentNotes** – App em Python para Anotações](https://github.com/RafaelGLacerda/TransparentNotes)
