@@ -19,7 +19,7 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 ## 🌟 Principais Projetos
 
 ### 🔎 Variados
-- 🤖 [**Chatbot Com IA** – Chat Bot Funcional](https://assistentechatbotv0.onrender.com/)
+- 🤖 [**Chatbot Com IA** – Chat Bot com IA](https://assistentechatbotv0.onrender.com/)
 - 💻 [**Monitor De Processos** – Monitorar o Desempenho do Computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
 - 🔴 [**Gerador de QRcode** – Gerar QRcodes pelos Links](https://qrcodesgerador.netlify.app/)
 - 🕓 [**ModernClock** – Funções de Relógio com Design Moderno](https://modernclock.vercel.app/) 
