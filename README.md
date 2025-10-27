@@ -20,12 +20,13 @@ Sou um desenvolvedor fullstack, mas com o foco principal em frontend. Moro em **
 
 ### 🔎 Variados
 - 🤖 [**Chatbot Com IA** – Chat Bot com IA](https://assistentechatbotv0.onrender.com/)
-- 💻 [**Monitor De Processos** – Monitorar o Desempenho do Computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
+- 📺 [**CineVault** – Biblioteca de Filmes](https://movielistorganizer.vercel.app/)
 - 🔴 [**Gerador de QRcode** – Gerar QRcodes pelos Links](https://qrcodesgerador.netlify.app/)
 - 🕓 [**ModernClock** – Funções de Relógio com Design Moderno](https://modernclock.vercel.app/) 
 - 🏜️ [**Conversor de Imagens** – Converter Imagens para Diferentes Tipos](https://imagemconversor.netlify.app/)
 - 📈 [**Analisador de Rede** – Visualizar seu Upload, Donwload e Ping](https://redeanalise.onrender.com/)
 - 📽️ [**Reels & Shorts** – App em Python para Download de Vídeos](https://github.com/RafaelGLacerda/Reels-Shorts)
+- 💻 [**Monitor De Processos** – Monitorar o Desempenho do Computador](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
 - 📂 [**CryptoModern** – Criptografar e descriptografar Arquivos](https://cryptomodern.netlify.app/)
 - 🧾 [**NotasFiscais** – Criador de Notas Fiscais (Este site é um projeto fictício e educacional)](https://notasfiscaispdf.netlify.app/)
 - 📽️ [**L5M** – Funcionalidades baseadas no YouTube](https://l5m.onrender.com/)
