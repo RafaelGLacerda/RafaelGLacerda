@@ -15,6 +15,26 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 [![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/docs)
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chat.openai.com/)
+[![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/)
+[![DeepSeek](https://img.shields.io/badge/-DeepSeek-000000?style=flat-square&logoColor=white)](https://www.deepseek.com/)
+[![v0](https://img.shields.io/badge/-v0.sh-000000?style=flat-square&logo=vercel&logoColor=white)](https://v0.dev/)
+[![Lovart](https://img.shields.io/badge/-Lovart-AE00FF?style=flat-square&logoColor=white)](https://lovart.ai/)
+[![Canva AI](https://img.shields.io/badge/-Canva%20AI-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/ai/)
+[![Pika Labs](https://img.shields.io/badge/-Pika%20Labs-FF5C5C?style=flat-square&logoColor=white)](https://pika.art/)
+[![Copilot](https://img.shields.io/badge/-GitHub%20Copilot-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![Lovable](https://img.shields.io/badge/-Lovable-FF66CC?style=flat-square&logoColor=white)](https://lovable.dev/)
+[![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://render.com/)
+[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![WSL](https://img.shields.io/badge/-WSL-0078D6?style=flat-square&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
+
 
 ## 🌟 Main Projects
 
