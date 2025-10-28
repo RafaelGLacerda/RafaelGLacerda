@@ -64,9 +64,9 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 - 🛒 [**Store Project** – Responsive Store Website](https://rafaelglacerda.github.io/StoreProject/)
 
 ### 📍 Location / Scheduling
+- 🍴 [**DietMealOrganizer** – Diet Organizer Website](https://dietmealorganizer.vercel.app/)
 - 📜 [**TransparentNotes** – Python Notes App](https://github.com/RafaelGLacerda/TransparentNotes)
 - ⛽ [**PostoFinder** – Find Nearby Gas Stations](https://postofinder.onrender.com/)
-- 🍴 [**DietMealOrganizer** – Diet Organizer Website](https://dietmealorganizer.vercel.app/)
 - 🌥️ [**CityWeather** – Check Weather in Any City](https://cityweatherbasic.netlify.app/)
 - 🏩 [**AgendamentoSaude** – Schedule Medical Appointments](https://agendamentosus.onrender.com/)
 - ☑️ [**Tasks** – Simple Task Manager](https://tasks-hbdt.onrender.com/)
