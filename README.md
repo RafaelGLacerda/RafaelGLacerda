@@ -40,7 +40,6 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 
 ### 🔎 Various
 - 🤖 [**Chatbot with AI** – AI Chat Bot](https://assistentechatbotv0.onrender.com/)
-- 📺 [**CineVault** – Movie Library](https://cinevaultlist.vercel.app/)
 - 🔴 [**QR Code Generator** – Generate QR Codes from Links](https://qrcodesgerador.netlify.app/)
 - 🕓 [**ModernClock** – Modern Clock Design with Multiple Functions](https://modernclock.vercel.app/)
 - 🏜️ [**Image Converter** – Convert Images to Different Formats](https://imagemconversor.netlify.app/)
@@ -64,13 +63,14 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 - 🛒 [**Store Project** – Responsive Store Website](https://rafaelglacerda.github.io/StoreProject/)
 
 ### 📍 Location / Scheduling
-- 🍴 [**DietMealOrganizer** – Diet Organizer Website](https://dietmealorganizer.vercel.app/)
 - 📜 [**TransparentNotes** – Python Notes App](https://github.com/RafaelGLacerda/TransparentNotes)
 - ⛽ [**PostoFinder** – Find Nearby Gas Stations](https://postofinder.onrender.com/)
 - 🌥️ [**CityWeather** – Check Weather in Any City](https://cityweatherbasic.netlify.app/)
 - 🏩 [**AgendamentoSaude** – Schedule Medical Appointments](https://agendamentosus.onrender.com/)
 - ☑️ [**Tasks** – Simple Task Manager](https://tasks-hbdt.onrender.com/)
 - 🌏 [**ReciclaSSA** – Connects Recycling Cooperatives and Users](https://reciclassa.onrender.com/)
+- 🍴 [**DietMealOrganizer** – Diet Organizer Website](https://dietmealorganizer.vercel.app/)
+- 📺 [**CineVault** – Movie Library](https://cinevaultlist.vercel.app/)
 
 ### 🎮 Games
 - ♟️ [**CommonChess** – Stylized Chess Game](https://commonchess.netlify.app/)
