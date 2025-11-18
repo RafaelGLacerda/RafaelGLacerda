@@ -84,7 +84,7 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 
 **https://rafaellacerda.netlify.app/**
 
-**https://drive.google.com/file/d/1Kx8IvpgmIdvQQGAedysHQY9SuONrS_-3/view?usp=sharing**
+**https://drive.google.com/file/d/1Wwe8AKbPLBS-sBaQm32E6kAbQMpaJkjo/view?usp=sharing**
 
 
 ## 📫 How to Reach Me:
