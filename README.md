@@ -84,6 +84,9 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 
 **https://rafaellacerda.netlify.app/**
 
+**https://drive.google.com/file/d/1Kx8IvpgmIdvQQGAedysHQY9SuONrS_-3/view?usp=sharing**
+
+
 ## 📫 How to Reach Me:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-lacerda-47513526a) **Connect with me on LinkedIn**
