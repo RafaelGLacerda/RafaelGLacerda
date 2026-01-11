@@ -40,7 +40,7 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 
 ### 🔎 Various
 - 🤖 [**Chatbot with AI** – AI Chat Bot](https://assistentechatbotv0.onrender.com/)
-- 🔴 [**QR Code Generator** – Generate QR Codes from Links](https://qrcodesgerador.onrender.com/)
+- 🔴 [**QR Code Generator** – Generate QR Codes from Links](https://qrcodesgenerator.onrender.com/)
 - 🕓 [**ModernClock** – Modern Clock Design with Multiple Functions](https://modernclock.vercel.app/)
 - 🏜️ [**Image Converter** – Convert Images to Different Formats](https://imagemconversor.onrender.com/)
 - 📈 [**Network Analyzer** – Visualize Upload, Download and Ping](https://redeanalise.onrender.com/)
