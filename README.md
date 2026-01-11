@@ -82,7 +82,7 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 
 ## 🌐 My Portfolio:
 
-**https://rafaellacerda.onrender.com/**
+**https://rafaellacerda.vercel.app/**
 
 **https://drive.google.com/file/d/1Wwe8AKbPLBS-sBaQm32E6kAbQMpaJkjo/view?usp=sharing**
 
