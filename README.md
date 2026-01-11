@@ -80,11 +80,13 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 - 🔴 [**AutoBallBattle** – Automatic Competitive RPG Game](https://autoballbattletest.vercel.app/)
 - 🎁 [**OpenSkins** – Fictional Skin Case Opening](https://openskins.onrender.com/)
 
-## 🌐 My Portfolio:
+## 🌐 Portfolio:
 
 **https://rafaellacerda.vercel.app/**
 
-**https://drive.google.com/file/d/1Wwe8AKbPLBS-sBaQm32E6kAbQMpaJkjo/view?usp=sharing**
+## 📄 Curriculum:
+
+**https://drive.google.com/file/d/16UVHgX1otOAfDhkU0aqGmYLLpL7dGExH/view?usp=sharing**
 
 
 ## 📫 How to Reach Me:
