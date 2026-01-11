@@ -76,7 +76,7 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 ### 🎮 Games
 - ♟️ [**CommonChess** – Stylized Chess Game](https://commonchess.onrender.com/)
 - ⭐ [**RushHeroes** – Simplified Turn-Based Gacha Game](https://rushheroes.onrender.com/)
-- 🐍 [**Pixel Python** – Python Game Built with Pygame](https://github.com/RafaelGLacerda/PixelPythonGame)
+- 🐍 [**Pixel Python** – Python Game Built with Pygame](https://github.com/RafaelGLacerda/PythonPixelGame)
 - 🔴 [**AutoBallBattle** – Automatic Competitive RPG Game](https://autoballbattletest.vercel.app/)
 - 🎁 [**OpenSkins** – Fictional Skin Case Opening](https://openskins.onrender.com/)
 
