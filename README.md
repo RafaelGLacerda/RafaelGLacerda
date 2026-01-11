@@ -40,32 +40,32 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 
 ### 🔎 Various
 - 🤖 [**Chatbot with AI** – AI Chat Bot](https://assistentechatbotv0.onrender.com/)
-- 🔴 [**QR Code Generator** – Generate QR Codes from Links](https://qrcodesgerador.netlify.app/)
+- 🔴 [**QR Code Generator** – Generate QR Codes from Links](https://qrcodesgerador.onrender.com/)
 - 🕓 [**ModernClock** – Modern Clock Design with Multiple Functions](https://modernclock.vercel.app/)
-- 🏜️ [**Image Converter** – Convert Images to Different Formats](https://imagemconversor.netlify.app/)
+- 🏜️ [**Image Converter** – Convert Images to Different Formats](https://imagemconversor.onrender.com/)
 - 📈 [**Network Analyzer** – Visualize Upload, Download and Ping](https://redeanalise.onrender.com/)
 - 📽️ [**Reels & Shorts** – Python App for Video Downloads](https://github.com/RafaelGLacerda/Reels-Shorts)
 - 💻 [**Process Monitor** – Monitor Computer Performance](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
-- 📂 [**CryptoModern** – Encrypt and Decrypt Files](https://cryptomodern.netlify.app/)
-- 🧾 [**NotasFiscais** – Invoice Creator (Fictional Educational Project)](https://notasfiscaispdf.netlify.app/)
+- 📂 [**CryptoModern** – Encrypt and Decrypt Files](https://cryptomodern.onrender.com/)
+- 🧾 [**NotasFiscais** – Invoice Creator (Fictional Educational Project)](https://notasfiscaispdf.onrender.com/)
 - 📽️ [**L5M** – YouTube-based Functionalities](https://l5m.onrender.com/)
 - 🔊 [**Drocsid** – Text and Voice Communication Based on Discord](https://drocsid.onrender.com/)
-- 🎬 [**Your Movie Library** – Movie Collection Website](https://yourmovielibrary.netlify.app/)
-- 📏 [**Unit Converter** – Convert Different Types of Units](https://unidadeconversor.netlify.app/)
-- 💵 [**Interest Calculator** – Calculate Investment Interest](https://juroscalculator.netlify.app/)
+- 🎬 [**Your Movie Library** – Movie Collection Website](https://yourmovielibrary.onrender.com/)
+- 📏 [**Unit Converter** – Convert Different Types of Units](https://unidadeconversor.onrender.com/)
+- 💵 [**Interest Calculator** – Calculate Investment Interest](https://juroscalculator.onrender.com/)
 
 ### 💼 Business
 - 📊 [**StoreManager** – Store Management System](https://storemanager-ztwx.onrender.com/)
 - 💸 [**Costs Project** – Service and Budget Management](https://costsservice.onrender.com/)
 - 🏛️ [**NeoBank** – Simple Virtual Bank](https://neobank-ji8b.onrender.com/)
 - 🏢 [**EasyBusiness** – Business and User Platform](https://easybuniness.onrender.com/)
-- 🛬 [**VooEmbarcar** – Quotation System for Airline Companies](https://vooembarcar.netlify.app/)
+- 🛬 [**VooEmbarcar** – Quotation System for Airline Companies](https://vooembarcar.onrender.com/)
 - 🛒 [**Store Project** – Responsive Store Website](https://rafaelglacerda.github.io/StoreProject/)
 
 ### 📍 Location / Scheduling
 - 📜 [**TransparentNotes** – Python Notes App](https://github.com/RafaelGLacerda/TransparentNotes)
 - ⛽ [**PostoFinder** – Find Nearby Gas Stations](https://postofinder.onrender.com/)
-- 🌥️ [**CityWeather** – Check Weather in Any City](https://cityweatherbasic.netlify.app/)
+- 🌥️ [**CityWeather** – Check Weather in Any City](https://cityweatherbasic.onrender.com/)
 - 🏩 [**AgendamentoSaude** – Schedule Medical Appointments](https://agendamentosus.onrender.com/)
 - ☑️ [**Tasks** – Simple Task Manager](https://tasks-hbdt.onrender.com/)
 - 🌏 [**ReciclaSSA** – Connects Recycling Cooperatives and Users](https://reciclassa.onrender.com/)
@@ -74,7 +74,7 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 - 📦 [**StockStoreFlow** – Inventory and Profitability of Stores](https://stockstoreflow.vercel.app/)
 
 ### 🎮 Games
-- ♟️ [**CommonChess** – Stylized Chess Game](https://commonchess.netlify.app/)
+- ♟️ [**CommonChess** – Stylized Chess Game](https://commonchess.onrender.com/)
 - ⭐ [**RushHeroes** – Simplified Turn-Based Gacha Game](https://rushheroes.onrender.com/)
 - 🐍 [**Pixel Python** – Python Game Built with Pygame](https://github.com/RafaelGLacerda/PixelPython)
 - 🔴 [**AutoBallBattle** – Automatic Competitive RPG Game](https://autoballbattletest.vercel.app/)
@@ -82,7 +82,7 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 
 ## 🌐 My Portfolio:
 
-**https://rafaellacerda.netlify.app/**
+**https://rafaellacerda.onrender.com/**
 
 **https://drive.google.com/file/d/1Wwe8AKbPLBS-sBaQm32E6kAbQMpaJkjo/view?usp=sharing**
 
