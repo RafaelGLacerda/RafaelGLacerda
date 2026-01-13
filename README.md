@@ -72,6 +72,7 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 - 🍴 [**DietMealOrganizer** – Diet Organizer Website](https://dietmealorganizer.vercel.app/)
 - 📺 [**CineVault** – Movie Library](https://cinevaultlist.vercel.app/)
 - 📦 [**StockStoreFlow** – Inventory and Profitability of Stores](https://stockstoreflow.vercel.app/)
+- 💰 [**FinanceManager** – Helps control expenses](https://v0-financemanager.vercel.app/)
 
 ### 🎮 Games
 - ♟️ [**CommonChess** – Stylized Chess Game](https://commonchess.onrender.com/)
