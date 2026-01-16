@@ -98,8 +98,8 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 
 ## 📊 My GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RafaelGLacerda&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RafaelGLacerda&layout=compact&theme=dark&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelGLacerda&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelGLacerda&show_icons=true&theme=dark&cache_seconds=1800)
 
 "Always seeking new challenges and constant learning."
