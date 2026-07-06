@@ -78,7 +78,6 @@ I am a Full-stack, web, mobile, and QA software developer with professional expe
 ## 📫 How to Reach Me:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-lacerda-47513526a) **Connect with me on LinkedIn**
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RafaelGLacerda) **Check out my projects on GitHub**
 - ✉️ **Email:** [Rafaellacerda2004@gmail.com](mailto:Rafaellacerda2004@gmail.com)
 
 "Always seeking new challenges and constant learning."
