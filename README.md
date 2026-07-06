@@ -42,9 +42,7 @@ I am a Full-stack, web, mobile, and QA software developer with professional expe
 - 🤖 [**Chatbot with AI** – AI Chat Bot](https://assistentechatbotv0.onrender.com/)
 - 🔴 [**QR Code Generator** – Generate QR Codes from Links](https://qrcodesgenerator.onrender.com/)
 - 📽️ [**Reels & Shorts** – Python App for Video Downloads](https://github.com/RafaelGLacerda/Reels-Shorts)
-- 💻 [**Process Monitor** – Monitor Computer Performance](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
 - 📂 [**CryptoModern** – Encrypt and Decrypt Files](https://cryptomodern.onrender.com/)
-- 🧾 [**NotasFiscais** – Invoice Creator (Fictional Educational Project)](https://notasfiscaispdf.onrender.com/)
 
 ### 💼 Business
 - 📊 [**StoreManager** – Store Management System](https://storemanager-ztwx.onrender.com/)
@@ -52,7 +50,6 @@ I am a Full-stack, web, mobile, and QA software developer with professional expe
 - 🛬 [**VooEmbarcar** – Quotation System for Airline Companies](https://vooembarcar.onrender.com/)
 
 ### 📍 Location / Scheduling
-- 📜 [**TransparentNotes** – Python Notes App](https://github.com/RafaelGLacerda/TransparentNotes)
 - ⛽ [**PostoFinder** – Find Nearby Gas Stations](https://postofinder.onrender.com/)
 - 🍴 [**DietMealOrganizer** – Diet Organizer Website](https://dietmealorganizer.vercel.app/)
 - 📺 [**CineVault** – Movie Library](https://cinevaultlist.vercel.app/)
