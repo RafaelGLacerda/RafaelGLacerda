@@ -1,6 +1,6 @@
-# 👋 Hello, my name is Rafael Lacerda!
+# 👋 Hi! my name is Rafael Lacerda!
 
-I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA, Brazil**, and I'm currently diving deeper into the world of web and backend development — improving my skills and learning more every day.
+I am a Full-stack, web, mobile, and QA software developer with professional experience in TypeScript, Node.js, Tailwind CSS, React, and Playwright.
 
 ## 🛠️ Technologies and Tools I Use:
 
