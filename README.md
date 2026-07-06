@@ -87,7 +87,7 @@ I'm a fullstack developer with a main focus on frontend. I live in **Salvador-BA
 
 ## 📄 Curriculum:
 
-**https://drive.google.com/file/d/16UVHgX1otOAfDhkU0aqGmYLLpL7dGExH/view?usp=sharing**
+**https://drive.google.com/file/d/1wejUsRzv0GEDgtPa4jXK0ONaPVqTN-sZ/view?usp=sharing**
 
 
 ## 📫 How to Reach Me:
