@@ -41,34 +41,19 @@ I am a Full-stack, web, mobile, and QA software developer with professional expe
 ### 🔎 Various
 - 🤖 [**Chatbot with AI** – AI Chat Bot](https://assistentechatbotv0.onrender.com/)
 - 🔴 [**QR Code Generator** – Generate QR Codes from Links](https://qrcodesgenerator.onrender.com/)
-- 🕓 [**ModernClock** – Modern Clock Design with Multiple Functions](https://modernclock.vercel.app/)
-- 🏜️ [**Image Converter** – Convert Images to Different Formats](https://imagemconversor.onrender.com/)
-- 📈 [**Network Analyzer** – Visualize Upload, Download and Ping](https://redeanalise.onrender.com/)
 - 📽️ [**Reels & Shorts** – Python App for Video Downloads](https://github.com/RafaelGLacerda/Reels-Shorts)
 - 💻 [**Process Monitor** – Monitor Computer Performance](https://github.com/RafaelGLacerda/MonitorDeProcessamentos)
 - 📂 [**CryptoModern** – Encrypt and Decrypt Files](https://cryptomodern.onrender.com/)
 - 🧾 [**NotasFiscais** – Invoice Creator (Fictional Educational Project)](https://notasfiscaispdf.onrender.com/)
-- 📽️ [**L5M** – YouTube-based Functionalities](https://l5m.onrender.com/)
-- 🔊 [**Drocsid** – Text and Voice Communication Based on Discord](https://drocsid.onrender.com/)
-- 🎬 [**Your Movie Library** – Movie Collection Website](https://yourmovielibrary.onrender.com/)
-- 📏 [**Unit Converter** – Convert Different Types of Units](https://unidadeconversor.onrender.com/)
-- 💵 [**Interest Calculator** – Calculate Investment Interest](https://juroscalculator.onrender.com/)
 
 ### 💼 Business
 - 📊 [**StoreManager** – Store Management System](https://storemanager-ztwx.onrender.com/)
 - 💸 [**Costs Project** – Service and Budget Management](https://costsservice.onrender.com/)
-- 🏛️ [**NeoBank** – Simple Virtual Bank](https://neobank-ji8b.onrender.com/)
-- 🏢 [**EasyBusiness** – Business and User Platform](https://easybuniness.onrender.com/)
 - 🛬 [**VooEmbarcar** – Quotation System for Airline Companies](https://vooembarcar.onrender.com/)
-- 🛒 [**Store Project** – Responsive Store Website](https://rafaelglacerda.github.io/StoreProject/)
 
 ### 📍 Location / Scheduling
 - 📜 [**TransparentNotes** – Python Notes App](https://github.com/RafaelGLacerda/TransparentNotes)
 - ⛽ [**PostoFinder** – Find Nearby Gas Stations](https://postofinder.onrender.com/)
-- 🌥️ [**CityWeather** – Check Weather in Any City](https://cityweatherbasic.onrender.com/)
-- 🏩 [**AgendamentoSaude** – Schedule Medical Appointments](https://agendamentosus.onrender.com/)
-- ☑️ [**Tasks** – Simple Task Manager](https://tasks-hbdt.onrender.com/)
-- 🌏 [**ReciclaSSA** – Connects Recycling Cooperatives and Users](https://reciclassa.onrender.com/)
 - 🍴 [**DietMealOrganizer** – Diet Organizer Website](https://dietmealorganizer.vercel.app/)
 - 📺 [**CineVault** – Movie Library](https://cinevaultlist.vercel.app/)
 - 📦 [**StockStoreFlow** – Inventory and Profitability of Stores](https://stockstoreflow.vercel.app/)
@@ -95,11 +80,5 @@ I am a Full-stack, web, mobile, and QA software developer with professional expe
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-lacerda-47513526a) **Connect with me on LinkedIn**
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RafaelGLacerda) **Check out my projects on GitHub**
 - ✉️ **Email:** [Rafaellacerda2004@gmail.com](mailto:Rafaellacerda2004@gmail.com)
-
-## 📊 My GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RafaelGLacerda&layout=compact&theme=dark&cache_seconds=1800)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelGLacerda&show_icons=true&theme=dark&cache_seconds=1800)
 
 "Always seeking new challenges and constant learning."
