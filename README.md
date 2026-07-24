@@ -58,8 +58,6 @@ I am a Full-stack, web, mobile, and QA software developer with professional expe
 
 ### 🎮 Games
 - ♟️ [**CommonChess** – Stylized Chess Game](https://commonchess.onrender.com/)
-- ⭐ [**RushHeroes** – Simplified Turn-Based Gacha Game](https://rushheroes.onrender.com/)
-- 🐍 [**Pixel Python** – Python Game Built with Pygame](https://github.com/RafaelGLacerda/PythonPixelGame)
 - 🔴 [**AutoBallBattle** – Automatic Competitive RPG Game](https://autoballbattletest.vercel.app/)
 - 🎁 [**OpenSkins** – Fictional Skin Case Opening](https://openskins.onrender.com/)
 
