@@ -16,15 +16,6 @@
   Focused on <strong>Full-Stack Development, Web, Mobile and Quality Assurance.</strong>
 </p>
 
-<p>
-  <a href="https://rafaellacerda.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2388FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://br.linkedin.com/in/rafael-lacerda-47513526a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -75,8 +66,3 @@ I'm a Full-Stack Developer with professional experience in software development,
 
 <i>"Great software is built with curiosity, consistency and attention to detail."</i>
 
-<br /><br />
-
-⭐ Thanks for visiting my profile!
-
-</div>
