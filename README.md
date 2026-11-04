@@ -46,12 +46,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:Rafaellacerda2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
